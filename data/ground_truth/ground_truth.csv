@@ -1,0 +1,52 @@
+report_id,filename,category,layout,report_date,synthetic_patient_id,test_name,expected_value,expected_unit,demo_reference_low,demo_reference_high,expected_demo_flag
+DEMO-0001,DEMO-0001.pdf,hemoglobin,classic,2026-02-27,PAT-0001,Haemoglobin,11.3,g/dL,12,17,LOW
+DEMO-0002,DEMO-0002.pdf,lipid_profile,compact,2026-04-25,PAT-0002,Total Cholesterol,180,mg/dL,125,200,WITHIN_DEMO_INTERVAL
+DEMO-0002,DEMO-0002.pdf,lipid_profile,compact,2026-04-25,PAT-0002,HDL Cholesterol,37,mg/dL,40,70,LOW
+DEMO-0002,DEMO-0002.pdf,lipid_profile,compact,2026-04-25,PAT-0002,LDL Cholesterol,40,mg/dL,50,130,LOW
+DEMO-0002,DEMO-0002.pdf,lipid_profile,compact,2026-04-25,PAT-0002,Triglycerides,66,mg/dL,40,150,WITHIN_DEMO_INTERVAL
+DEMO-0003,DEMO-0003.pdf,hemoglobin,minimal,2026-01-14,PAT-0003,Haemoglobin,15.6,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0004,DEMO-0004.pdf,hemoglobin,classic,2026-08-03,PAT-0004,Haemoglobin,14.2,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0005,DEMO-0005.pdf,glucose,compact,2026-01-04,PAT-0005,Fasting Blood Glucose,91,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0006,DEMO-0006.pdf,glucose,minimal,2026-05-23,PAT-0006,Fasting Blood Glucose,76,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0007,DEMO-0007.pdf,glucose,classic,2026-02-22,PAT-0007,Fasting Blood Glucose,61,mg/dL,70,100,LOW
+DEMO-0008,DEMO-0008.pdf,glucose,compact,2026-06-26,PAT-0008,Fasting Blood Glucose,94,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0009,DEMO-0009.pdf,hemoglobin,minimal,2026-08-24,PAT-0009,Haemoglobin,11.8,g/dL,12,17,LOW
+DEMO-0010,DEMO-0010.pdf,glucose,classic,2026-02-10,PAT-0010,Fasting Blood Glucose,95,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0011,DEMO-0011.pdf,hemoglobin,compact,2026-07-05,PAT-0011,Haemoglobin,15.5,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0012,DEMO-0012.pdf,lipid_profile,minimal,2026-04-27,PAT-0012,Total Cholesterol,199,mg/dL,125,200,WITHIN_DEMO_INTERVAL
+DEMO-0012,DEMO-0012.pdf,lipid_profile,minimal,2026-04-27,PAT-0012,HDL Cholesterol,66,mg/dL,40,70,WITHIN_DEMO_INTERVAL
+DEMO-0012,DEMO-0012.pdf,lipid_profile,minimal,2026-04-27,PAT-0012,LDL Cholesterol,137,mg/dL,50,130,HIGH
+DEMO-0012,DEMO-0012.pdf,lipid_profile,minimal,2026-04-27,PAT-0012,Triglycerides,58,mg/dL,40,150,WITHIN_DEMO_INTERVAL
+DEMO-0013,DEMO-0013.pdf,glucose,classic,2026-04-18,PAT-0013,Fasting Blood Glucose,91,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0014,DEMO-0014.pdf,hemoglobin,compact,2026-02-06,PAT-0014,Haemoglobin,14.7,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0015,DEMO-0015.pdf,lipid_profile,minimal,2026-03-25,PAT-0015,Total Cholesterol,215,mg/dL,125,200,HIGH
+DEMO-0015,DEMO-0015.pdf,lipid_profile,minimal,2026-03-25,PAT-0015,HDL Cholesterol,61,mg/dL,40,70,WITHIN_DEMO_INTERVAL
+DEMO-0015,DEMO-0015.pdf,lipid_profile,minimal,2026-03-25,PAT-0015,LDL Cholesterol,42,mg/dL,50,130,LOW
+DEMO-0015,DEMO-0015.pdf,lipid_profile,minimal,2026-03-25,PAT-0015,Triglycerides,38,mg/dL,40,150,LOW
+DEMO-0016,DEMO-0016.pdf,glucose,classic,2026-05-18,PAT-0016,Fasting Blood Glucose,59,mg/dL,70,100,LOW
+DEMO-0017,DEMO-0017.pdf,hemoglobin,compact,2026-06-11,PAT-0017,Haemoglobin,15.3,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0018,DEMO-0018.pdf,glucose,minimal,2026-08-23,PAT-0018,Fasting Blood Glucose,78,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0019,DEMO-0019.pdf,lipid_profile,classic,2026-05-15,PAT-0019,Total Cholesterol,236,mg/dL,125,200,HIGH
+DEMO-0019,DEMO-0019.pdf,lipid_profile,classic,2026-05-15,PAT-0019,HDL Cholesterol,75,mg/dL,40,70,HIGH
+DEMO-0019,DEMO-0019.pdf,lipid_profile,classic,2026-05-15,PAT-0019,LDL Cholesterol,91,mg/dL,50,130,WITHIN_DEMO_INTERVAL
+DEMO-0019,DEMO-0019.pdf,lipid_profile,classic,2026-05-15,PAT-0019,Triglycerides,38,mg/dL,40,150,LOW
+DEMO-0020,DEMO-0020.pdf,lipid_profile,compact,2026-03-20,PAT-0020,Total Cholesterol,184,mg/dL,125,200,WITHIN_DEMO_INTERVAL
+DEMO-0020,DEMO-0020.pdf,lipid_profile,compact,2026-03-20,PAT-0020,HDL Cholesterol,78,mg/dL,40,70,HIGH
+DEMO-0020,DEMO-0020.pdf,lipid_profile,compact,2026-03-20,PAT-0020,LDL Cholesterol,140,mg/dL,50,130,HIGH
+DEMO-0020,DEMO-0020.pdf,lipid_profile,compact,2026-03-20,PAT-0020,Triglycerides,166,mg/dL,40,150,HIGH
+DEMO-0021,DEMO-0021.pdf,hemoglobin,minimal,2026-01-06,PAT-0021,Haemoglobin,11.2,g/dL,12,17,LOW
+DEMO-0022,DEMO-0022.pdf,hemoglobin,classic,2026-05-17,PAT-0022,Haemoglobin,12.6,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0023,DEMO-0023.pdf,glucose,compact,2026-03-22,PAT-0023,Fasting Blood Glucose,100,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0024,DEMO-0024.pdf,hemoglobin,minimal,2026-05-15,PAT-0024,Haemoglobin,14.5,g/dL,12,17,WITHIN_DEMO_INTERVAL
+DEMO-0025,DEMO-0025.pdf,lipid_profile,classic,2026-06-02,PAT-0025,Total Cholesterol,136,mg/dL,125,200,WITHIN_DEMO_INTERVAL
+DEMO-0025,DEMO-0025.pdf,lipid_profile,classic,2026-06-02,PAT-0025,HDL Cholesterol,56,mg/dL,40,70,WITHIN_DEMO_INTERVAL
+DEMO-0025,DEMO-0025.pdf,lipid_profile,classic,2026-06-02,PAT-0025,LDL Cholesterol,46,mg/dL,50,130,LOW
+DEMO-0025,DEMO-0025.pdf,lipid_profile,classic,2026-06-02,PAT-0025,Triglycerides,151,mg/dL,40,150,HIGH
+DEMO-0026,DEMO-0026.pdf,glucose,compact,2026-06-07,PAT-0026,Fasting Blood Glucose,72,mg/dL,70,100,WITHIN_DEMO_INTERVAL
+DEMO-0027,DEMO-0027.pdf,hemoglobin,minimal,2026-02-10,PAT-0027,Haemoglobin,11.3,g/dL,12,17,LOW
+DEMO-0028,DEMO-0028.pdf,lipid_profile,classic,2026-03-06,PAT-0028,Total Cholesterol,174,mg/dL,125,200,WITHIN_DEMO_INTERVAL
+DEMO-0028,DEMO-0028.pdf,lipid_profile,classic,2026-03-06,PAT-0028,HDL Cholesterol,48,mg/dL,40,70,WITHIN_DEMO_INTERVAL
+DEMO-0028,DEMO-0028.pdf,lipid_profile,classic,2026-03-06,PAT-0028,LDL Cholesterol,155,mg/dL,50,130,HIGH
+DEMO-0028,DEMO-0028.pdf,lipid_profile,classic,2026-03-06,PAT-0028,Triglycerides,118,mg/dL,40,150,WITHIN_DEMO_INTERVAL
+DEMO-0029,DEMO-0029.pdf,glucose,compact,2026-07-11,PAT-0029,Fasting Blood Glucose,118,mg/dL,70,100,HIGH
+DEMO-0030,DEMO-0030.pdf,glucose,minimal,2026-03-03,PAT-0030,Fasting Blood Glucose,77,mg/dL,70,100,WITHIN_DEMO_INTERVAL
